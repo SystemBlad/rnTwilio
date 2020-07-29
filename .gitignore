@@ -65,5 +65,3 @@ buck-out/
 
 # Project exclude paths
 /__tests__/
-/android/
-/ios/
